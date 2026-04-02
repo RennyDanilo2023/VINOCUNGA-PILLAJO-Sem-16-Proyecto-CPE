@@ -1,12 +1,15 @@
 Aplicación TRACI – Evaluación de Impactos Ambientales
 Componente Práctico Experimental
+
 Aplicación desarrollada mediante Ionic React y TypeScript para la evaluación de impactos ambientales asociados al consumo de leña, uso de agua y transporte en contextos amazónicos. El sistema permite registrar datos, calcular impactos ambientales y visualizar resultados mediante gráficos y tablas.
+
 Tecnologías utilizadas
 Ionic React
 TypeScript
 Recharts
 LocalStorage
 Visual Studio Code
+
 Figura 1. Pantalla de inicio de sesión.
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/3900e1d5-b545-4f3c-a49d-5db1bd2e658c" />
 Figura 2. Módulo de cálculo ambiental
